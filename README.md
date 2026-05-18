@@ -21,10 +21,19 @@
 
 ## Admin User Manual
 
-### Admin Features
+### *Admin Features*
+#### View Menu:
+<p align="center"><img src=" " width="400" alt="SwiftBite Logo"></a></p>
 
+#### View Order:
+<p align="center"><img src=" " width="400" alt="SwiftBite Logo"></a></p>
+
+#### View ..:
+<p align="center"><img src=" " width="400" alt="SwiftBite Logo"></a></p>
+
+#### View ..:
 
 ## Customer User Manual
-### Customer Features
+### *Customer Features*
 
 
