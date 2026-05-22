@@ -10,7 +10,7 @@
 
 ### *Admin Features*
 #### View Menu:
-<p align="center"><img src=" " width="400" alt="SwiftBite Logo"></a></p>
+<p align="center"><img src=" " width="400" alt="Login page"></a></p>
 
 #### View Order:
 <p align="center"><img src=" " width="400" alt="SwiftBite Logo"></a></p>
